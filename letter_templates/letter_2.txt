@@ -1,0 +1,9 @@
+Hey [NAME],
+
+Happy birthday! Have a wonderful time today and eat lots of cake!
+
+Lots of love,
+
+Apoorv
+
+[This is a auto sent email by python]
